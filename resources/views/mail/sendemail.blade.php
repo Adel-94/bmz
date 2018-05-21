@@ -1,0 +1,1 @@
+<h2>Abone  üçün göndərilən Email:{{$user_email}}</h2>
